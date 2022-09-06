@@ -1,3 +1,3 @@
 # Learning Rust
 
-I will update this repository on the days I work with rust, I have a life so I may not update this on the daily
+This just contains variables, input / output, files, enums, structs, if structures, while loops, for loops. The simple stuff in every programming language, right now I will not update this repository any longer because I want to program in rust alone and then upload a simple GUI application written in rust in a separate repository.
